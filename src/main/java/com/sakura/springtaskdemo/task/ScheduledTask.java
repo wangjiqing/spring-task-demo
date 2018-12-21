@@ -1,4 +1,4 @@
-package com.baidu.depth.springtaskdemo.task;
+package com.sakura.springtaskdemo.task;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.scheduling.annotation.SchedulingConfigurer;

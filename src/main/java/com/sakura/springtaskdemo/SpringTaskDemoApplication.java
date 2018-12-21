@@ -1,4 +1,4 @@
-package com.baidu.depth.springtaskdemo;
+package com.sakura.springtaskdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

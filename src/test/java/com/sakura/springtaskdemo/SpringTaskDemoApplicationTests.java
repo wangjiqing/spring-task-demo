@@ -1,4 +1,4 @@
-package com.baidu.depth.springtaskdemo;
+package com.sakura.springtaskdemo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
